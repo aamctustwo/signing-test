@@ -6,3 +6,4 @@ Sample commit 3
 Sample commit 4
 Sample commit 5
 Sample commit 6
+Sample commit 7
