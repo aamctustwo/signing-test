@@ -5,3 +5,4 @@ Sample commit 2
 Sample commit 3
 Sample commit 4
 Sample commit 5
+Sample commit 6
