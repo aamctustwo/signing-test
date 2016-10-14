@@ -11,3 +11,4 @@ Sample commit 8
 Sample commit 9
 Sample commit 10
 Sample commit 11
+Sample commit 12
